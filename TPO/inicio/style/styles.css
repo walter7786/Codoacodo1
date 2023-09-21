@@ -13,7 +13,7 @@ a{
 /* Presentacion section */
 
 .bannerSection{
-    position: relative;
+    position:relative;
     width: 100%;
 }
 
@@ -24,7 +24,7 @@ a{
 }
 
 .logo{
-    width: 13vw;
+    width: 10vw;
 }
 
 .bannerText{

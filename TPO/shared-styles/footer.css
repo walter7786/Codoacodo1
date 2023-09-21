@@ -1,0 +1,75 @@
+/* footer */
+
+.pie {
+    background-color: rgb(3, 117, 199);
+
+}
+
+.header {
+
+    padding: 30px;
+    
+    
+}
+
+.disposicion {
+    display:flex;
+    justify-content:left;
+    align-items:baseline;
+    gap: 10px;
+}
+
+.redes {
+    display:flex;
+    justify-content:end;
+}
+
+.logo2x {
+    justify-content:first baseline;
+    width: 70px;
+}
+span {
+    font-size:large;
+
+}
+.fb {
+    background-color: rgb(0, 42, 255);
+    padding: 8px ;
+    border-radius: 50px;
+    color: aliceblue;
+    
+}
+.in {
+    background-color: rgb(255, 0, 247);
+    padding: 8px ;
+    border-radius: 50px ;
+    color: aliceblue;
+}
+.tw {
+    background-color: rgb(0, 149, 255);
+    padding: 8px ;
+    border-radius: 50px;
+    color: aliceblue;
+}
+.li {
+    background-color: rgb(0, 76, 255);
+    padding: 8px ;
+    border-radius: 50px;
+    color: aliceblue;
+}
+.section {
+    display:flex;
+    justify-content:space-evenly;
+    gap: 20px;
+}
+.section div {
+    display: flex;
+    flex-direction: column;
+}
+a {
+    color: aliceblue;
+    padding: 7px;
+}
+.devs {
+    padding: 9px;
+}
