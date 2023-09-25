@@ -4,6 +4,8 @@ body {
     padding: 0;
     margin: 0;
     font-family: 'Inter', sans-serif;
+    background-image: url("../img/sky4.jpg");
+
 }
 
 a{
@@ -16,12 +18,15 @@ a{
     
     width: 100%;
     display: flex;
+    position: relative;
+    
 }
 
 .banner{
     filter: brightness(0.4);
     height: auto;
     width: 100%;
+    
 }
 
 .logo{
@@ -36,7 +41,7 @@ a{
     top: 0;
     display: flex;
     justify-content: space-around;
-    align-items: center;
+    align-items:center;
 }
 
 .lemaText{
